@@ -6,7 +6,7 @@ psutil==5.9.5
 tk==0.1.0
 customtkinter==5.2.0
 tkinterdnd2==0.3.0
-onnxruntime==1.15.0
+onnxruntime==1.16.3
 tensorflow==2.13.0
 opennsfw2==0.10.2
 protobuf==4.23.4
