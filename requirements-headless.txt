@@ -8,6 +8,6 @@ customtkinter==5.2.1
 tkinterdnd2==0.3.0
 onnxruntime==1.15.0
 tensorflow==2.15.0
-opennsfw2==0.12.0
+opennsfw2==0.12.1
 protobuf==4.25.1
 tqdm==4.65.0
