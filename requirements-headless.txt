@@ -2,7 +2,7 @@ numpy==1.26.2
 opencv-python==4.8.0.74
 onnx==1.15.0
 insightface==0.7.3
-psutil==5.9.6
+psutil==5.9.7
 tk==0.1.0
 customtkinter==5.2.1
 tkinterdnd2==0.3.0
