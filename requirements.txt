@@ -16,6 +16,6 @@ onnxruntime-silicon==1.13.1; sys_platform == 'darwin' and platform_machine == 'a
 onnxruntime-gpu==1.16.3; sys_platform != 'darwin'
 tensorflow==2.15.0
 opennsfw2==0.13.2
-protobuf==4.25.2
+protobuf==4.25.3
 tqdm==4.65.0
 gfpgan==1.3.8

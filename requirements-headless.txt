@@ -9,5 +9,5 @@ tkinterdnd2==0.3.0
 onnxruntime==1.15.0
 tensorflow==2.15.0
 opennsfw2==0.13.2
-protobuf==4.25.2
+protobuf==4.25.3
 tqdm==4.65.0
